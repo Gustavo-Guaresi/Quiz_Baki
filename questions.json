@@ -1,0 +1,34 @@
+[
+  {
+    "question": "Qual das seguintes frases foi dita em Baki?",
+    "choice1": "Podemos tornar nossas mãos e pés em armas no Karatê. Passamos dias treinando num longo período de tempo, com uma persistência que os ocidentais nunca entenderiam. O punho eventualente se torna uma arma, e ganha a habilidade de cortar.",
+    "choice2": "No Karatê, o punho não é apenas uma arma, mas uma extensão da vontade. Com 10 anos de treino, é possível golpear o ar de forma tão precisa que o impacto cria um vácuo capaz de cortar a pele do adversário.",
+    "choice3": "No Karatê, acredita-se que a mente pode superar as limitações do corpo. Com concentração absoluta, é possível lançar um soco tão rápido que o som da pancada atinge o oponente antes mesmo do impacto.",
+    "choice4": "Os mestres do Karatê dizem que o maior golpe é aquele que nunca é desferido. Um verdadeiro praticante pode focar sua energia a tal ponto que a mera intenção de um ataque faz o oponente desmaiar.",
+    "answer": 1
+  },
+  {
+    "question": "Qual das seguintes frases foi dita em Baki?",
+    "choice1": "Dizem que o sangue humano precisa de hemoglobina para carregar oxigênio. Mas, com anos de treino, é possível ensinar suas células a armazenarem oxigênio diretamente, permitindo que você sobreviva debaixo d'água por até uma hora.",
+    "choice2": "Se você entender o fluxo do sangue e o movimento das artérias, pode desferir um golpe que reverte temporariamente a circulação, fazendo o coração do seu oponente bater no ritmo que você quiser.",
+    "choice3": "Até mesmo quando um lutador desfere uma série de golpes, precisa-se respirar entre eles. Contudo, ele pode prender sua respiração por 5 minutos, não deixando nenhuma brecha para seu oponente.",
+    "choice4": "A verdadeira força não vem dos músculos, mas dos ossos. Se você treinar os ossos do braço a suportarem um impacto de uma tonelada por 10 anos, eles podem vibrar em uma frequência que parte qualquer metal ao meio.",
+    "answer": 3
+  },
+  {
+    "question": "Qual das seguintes frases foi dita em Baki?",
+    "choice1": "A pele humana é macia porque nunca foi testada como deveria. Após 20 anos de treinamento em superfícies abrasivas, minha pele tem a densidade de uma couraça de rinoceronte, capaz de repelir balas de baixo calibre.",
+    "choice2": "O verdadeiro segredo da força está na vibração. Se você treinar a ressonância do seu corpo por tempo suficiente, pode destruir qualquer coisa ao seu redor apenas emitindo um grito em uma frequência específica.",
+    "choice3": "Com treino extremo, o praticante de Karatê pode endurecer sua pele ao ponto de repelir lâminas. Durante o combate, a faca do inimigo se torna inútil contra um corpo tão resistente quanto granito.",
+    "choice4": "Humanos foram feitos para prenderem a respiração por até 5 minutos, mas se você respirar um ar com menos de 6% de oxigênio, basta uma única inalação para perder todas as funções. Uma falha clara na criação. É isso que eu tiro vantagem, e consegui sozinho: deixar o ar com menos de 6% de oxigênio usando a mão.",
+    "answer": 4
+  },
+  {
+    "question": "Qual das seguintes frases foi dita pelo Baki, o último dos românticos?",
+    "choice1": "Você é como dor de cárie, não vai embora não importa o que eu faça",
+    "choice2": "Eu não gosto de areia, é áspera, dura, irritante e fica em todo lugar. Não é como você",
+    "choice3": "Eu não vou te perder, como eu perdi minha mãe.",
+    "choice4": "O pensamento de não estar com você. É sufocante. ",
+    "answer": 1
+  }
+]
